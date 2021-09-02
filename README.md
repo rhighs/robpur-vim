@@ -1,3 +1,5 @@
+## A vim colorscheme made with VimArtisan by [@mserdarsanli](https://github.com/mserdarsanli)
+
 # Using vim-plug
 ```
 Plug `skurob/robpur-vim`
@@ -16,5 +18,5 @@ set background=dark
 colorscheme robpur
 ```
 
-![demo](https://imgur.com/a/MmvDt1M)
+![demo](https://i.imgur.com/LRlHdVh.png)
 
