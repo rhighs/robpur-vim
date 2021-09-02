@@ -4,7 +4,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let colors_name = "skurob"
+let colors_name = "robpur"
 
 set bg&
 
