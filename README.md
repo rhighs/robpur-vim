@@ -18,5 +18,17 @@ set background=dark
 colorscheme robpur
 ```
 
+or the mk2 version
+
+```
+colorscheme robpur-mk2
+```
+
+## robpur
+
 ![demo](https://i.imgur.com/LRlHdVh.png)
+
+## robpur-mk2
+
+![demo-mk2](https://i.imgur.com/2fGs3DT.png)
 
