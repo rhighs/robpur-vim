@@ -1,6 +1,3 @@
-" Created with VimArtisan (Vim Colorscheme Generator)
-" http://mserdarsanli.github.io/VimArtisan/index.html
-
 hi clear
 
 if exists("syntax_on")
