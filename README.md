@@ -16,3 +16,5 @@ set background=dark
 colorscheme robpur
 ```
 
+![demo](https://imgur.com/a/MmvDt1M)
+
