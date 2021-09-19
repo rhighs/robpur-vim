@@ -2,14 +2,14 @@
 
 # Using vim-plug
 ```
-Plug `skurob/robpur-vim`
+Plug 'skurob/robpur-vim'
 ```
 
 or 
 
 # Using source
 ```
-source `file/path/robpur.vim`
+source 'file/path/robpur.vim'
 ```
 
 # Applying
