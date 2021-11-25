@@ -133,7 +133,7 @@ hi SpecialChar	 ctermfg=209 ctermbg=NONE cterm=NONE guifg=#ff875f guibg=NONE gui
 hi Delimiter	 ctermfg=251 ctermbg=NONE cterm=NONE guifg=#c6c6c6 guibg=NONE gui=NONE
 hi SpecialComment	 ctermfg=240 ctermbg=NONE cterm=NONE guifg=#585858 guibg=NONE gui=NONE
 hi Debug	 ctermfg=209 ctermbg=NONE cterm=NONE guifg=#ff875f guibg=NONE gui=NONE
-hi Normal	 ctermfg=253 ctermbg=232 cterm=NONE guifg=#dadada guibg=#080808 gui=NONE
+hi Normal	 ctermfg=253 ctermbg=232 cterm=NONE guifg=#dadada guibg=#24292e gui=NONE
 hi clojureConstant	 ctermfg=209 ctermbg=NONE cterm=NONE guifg=#ff875f guibg=NONE gui=NONE
 hi clojureBoolean	 ctermfg=209 ctermbg=NONE cterm=NONE guifg=#ff875f guibg=NONE gui=NONE
 hi clojureSpecial	 ctermfg=209 ctermbg=NONE cterm=NONE guifg=#ff875f guibg=NONE gui=NONE
